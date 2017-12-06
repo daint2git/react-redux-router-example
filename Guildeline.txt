@@ -1,0 +1,13 @@
+/**
+ * Author: daint2@fsoft.com.vn
+ * File: Guildeline.txt
+ */
+
+Step 1: (touch) yarn install or npm start
+
+Step 2: (touch) npm install -g json-server
+
+Step 3: At './react-redux-router-example/src/testdata' 
+        (touch) json-server --watch db.json
+
+Step 4: (touch) yarn start or npm start
